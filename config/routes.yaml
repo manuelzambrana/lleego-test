@@ -1,0 +1,4 @@
+availability:
+    path: /api/avail
+    controller: App\Infrastructure\Controller\AvailabilityController::getAvailability
+    methods: GET
